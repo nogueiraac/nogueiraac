@@ -19,7 +19,6 @@ Hello, my name is Arthur César. I am currently a Full Stack developer, working 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.linkedin.com/in/arthur-c%C3%A9sar//)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://www.linkedin.com/in/arthur-c%C3%A9sar//)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://www.linkedin.com/in/arthur-c%C3%A9sar//)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://www.linkedin.com/in/arthur-c%C3%A9sar/)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://www.linkedin.com/in/arthur-c%C3%A9sar/)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
