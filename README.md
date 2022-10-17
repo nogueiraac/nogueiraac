@@ -27,7 +27,6 @@ Hello, my name is Arthur César. I am currently a Full Stack developer, working 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://www.linkedin.com/in/arthur-c%C3%A9sar/)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://www.linkedin.com/in/arthur-c%C3%A9sar/)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://www.linkedin.com/in/arthur-c%C3%A9sar/)](https://www.linkedin.com/in/arthur-c%C3%A9sar/)
 
 
 ---
